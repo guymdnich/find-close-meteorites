@@ -1,2 +1,2 @@
 # find-close-meteorites
-A demo project that uses nasa data to find close metrorites
+A demo project that uses Python and NASA data to find close metrorites
